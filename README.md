@@ -19,7 +19,7 @@ I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing A
 - 🔭 I’m currently working on Image Generation Project
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
+  - 🖼 Computer Vision & Image Generation
 - 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV
 ## 📅 Hobbies
