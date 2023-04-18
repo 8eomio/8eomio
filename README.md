@@ -10,14 +10,13 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Master Student🎓 [@AJOU](www.ajou.ac.kr)** pursuing AI. I'm a ML&DM rookie <br/><br/>
+I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing AI. I'm a ML&DM rookie <br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
 - 👨‍🏛 I am currently a student of **AJOU**.
 - 💻 Major is **Computer Science and Technology, Digital Media, Artificial Intelligence**. 
 - 🔭 I’m currently working on Image Generation Project
-- 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
