@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8eomio" alt="8eomio" /></a> </p>
 
-- 🌱 I’m currently learning **Image Generation**
+- 🌱 I’m currently learning **Machine Learning Image Generation**
 
-- 📝 I regularly write articles on [Image Inpainting with Image Guidance](Image Inpainting with Image Guidance)
+- 📝 I regularly write articles on [Image Inpainting with Image Guidance]
 
 - 📫 How to reach me **aidbeomjo@ajou.ac.kr**
 
