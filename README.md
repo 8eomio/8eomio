@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">Artificial Intelligence Master Degree Student in Ajou University</h3>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
