@@ -13,7 +13,7 @@
 I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing AI. I'm a ML&DM rookie <br/><br/>
 
 
-## ⚡️ A Few Quick Facts
+## ⚡️ About Me
 - 👨‍🏛 I am currently a student of **AJOU**.
 - 💻 Major is **Computer Science and Technology, Digital Media, Artificial Intelligence**. 
 - 🔭 I’m currently working on Image Generation Project
@@ -21,8 +21,13 @@ I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing A
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
 - 🤔 I’m looking for help with Devops
-- 🤔 My hobbies are **playing game, Running, Cycling, listening Music**.
 - 💬 Ask me about Python, ML, CV
+## 📅 Hobbies
+- Watching TV shows, Youtube
+- Play videogames(LOL, TFT, Nintendo)
+- Running
+- Cycling
+- Listening Music 
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Youtube-555555.svg?&style=flat-square&logo=youtube&logoColor=FF0000"/> 
 
