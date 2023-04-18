@@ -1,6 +1,24 @@
-<h1 align="center">Hi 👋, I'm BeomJo Kim</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Artificial Intelligence Master Degree Student in Ajou University</h3>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "BeomJo Kim"
+        self.role = "(want to be a) Machine Learning Engineer"
+        self.language_spoken = ["ko_KR", "en_US", "zh_CN"]
+
+    def say_hi(self):
+        print("Welcome to my github, I'm currently studying in Artificial Intelligence Master Degree Student in Ajou University ")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8eomio&label=Profile%20views&color=0e75b6&style=flat" alt="8eomio" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8eomio" alt="8eomio" /></a> </p>
