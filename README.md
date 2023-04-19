@@ -7,7 +7,7 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/8eomio/)](https://github.com/8eomio/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aidbeomjo@ajou.ac.kr)](mailto:aidbeomjo@ajou.ac.kr)
-
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011161057418&mibextid=ZbWKwL)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing AI. I'm a ML&DM rookie <br/><br/>
