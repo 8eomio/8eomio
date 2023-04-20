@@ -5,8 +5,8 @@
 [![GithubBadge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/8eomio/)](https://github.com/8eomio/) 
 [![GmailBadge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aidbeomjo@ajou.ac.kr)](mailto:aidbeomjo@ajou.ac.kr)
 [![FacebookBadge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011161057418&mibextid=ZbWKwL)
-[![KaggleBadge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://https://www.kaggle.com/awesomeds)
-[![WechatBadge](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](weixin://dl/chat?wxid_snjzxyuia8z322)
+[![KaggleBadge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/awesomeds)
+[![WechatBadge](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](wxid_snjzxyuia8z322)
 ## 😎 About Me
 - 👨‍🏛 I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing AI. I'm a ML&DM rookie.
 - 💻 Major is **Computer Science and Technology, Digital Media, Artificial Intelligence**. 
@@ -21,8 +21,9 @@
 - 📺 Watching TV shows, Youtube
 - 🏃 Running
 - 🚴 Cycling
+- ✈️ Trip
 - 🎵 Listening Music 
-- 💻 Play videogames  
+- 💻 Playing videogames  
 
   <img src="https://img.shields.io/badge/Battle.net-000?style=flat-square&logo=battle.net&logoColor=148EFF" />
   <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white" />
