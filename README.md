@@ -1,9 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello!, I am <a href="https://github.com/8eomio">BeomJo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 ### 📬 Find me at
 [![GithubBadge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/8eomio/)](https://github.com/8eomio/) 
 [![GmailBadge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aidbeomjo@ajou.ac.kr)](mailto:aidbeomjo@ajou.ac.kr)
@@ -50,17 +47,16 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 -->
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8eomio&label=Profile%20views&color=0e75b6&style=flat" alt="8eomio" /> </p>
-
+## ✍️
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8eomio" alt="8eomio" /></a> </p>
-
-<p align="left">
-</p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8eomio&show_icons=true&locale=en&layout=compact" alt="8eomio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8eomio&show_icons=true&locale=en" alt="8eomio" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8eomio&" alt="8eomio" /></p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=8eomio.8eomio)
+<img src="https://komarev.com/ghpvc/?username=8eomio&label=Profile%20views&color=0e75b6&style=flat" alt="8eomio" />
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
