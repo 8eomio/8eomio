@@ -8,7 +8,6 @@
 [![KaggleBadge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/awesomeds)
 [![WechatBadge](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](wxid_snjzxyuia8z322)
 ## 😎 About Me
-- 😇 Soft but Hard Person
 - 👨‍🏛 I'm an **Master Student🎓 [@AJOU](https://ajou.ac.kr/kr/index.do)** pursuing AI. I'm a ML&DM rookie.
 - 💻 Major is **Computer Science and Technology, Digital Media, Artificial Intelligence**. 
 - 🔭 I’m currently working on Image Generation Project
